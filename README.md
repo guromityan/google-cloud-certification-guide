@@ -10,3 +10,4 @@
 | 2023-04-10 | Professional Cloud Security Engineer        | [EN](professional_cloud_security_engineer/en.md) [JP](professional_cloud_security_engineer/jp.md)               |
 | 2023-04-10 | Professional Cloud Network Engineer         | [EN](professional_cloud_network_engineer/en.md) [JP](professional_cloud_network_engineer/jp.md)                 |
 | 2023-04-10 | Professional Google Workspace Administrator | [EN](professional_google_workspace_administrator/en.md) [JP](professional_google_workspace_administrator/jp.md) |
+| 2023-04-10 | Professional Machine Learning Engineer      | [EN](professional_machine_learning_engineer/en.md) [JP](professional_machine_learning_engineer/jp.md)           |
